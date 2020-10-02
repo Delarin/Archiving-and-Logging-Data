@@ -1,0 +1,21 @@
+# Archiving-and-Logging-Data
+# Scenario
+This project demonstrates the role of a security analyst for XYZ Inc., a financial institution that offers checking, savings, and investment banking services.
+
+
+The company collects, processes, and maintains a large database of private financial information for both consumer and business accounts.
+
+
+The data is maintained on a local server.
+
+
+The company must comply with the Federal Trade Commission's Gramm-Leach-Bliley Act (GLBA), which requires that financial institutions explain their information-sharing practices to their customers and protect sensitive data.
+
+
+In an effort to mitigate network attacks and meet federal compliance, XYZ Inc. developed an efficient log management program that performs:
+
+Priority-based logging with rsyslog.
+Log size management using logrotate.
+Log auditing with auditd to track events, record the events, detect abuse or unauthorized activity, and create custom reports.
+
+These tools, in addition to archives, backups, scripting, and task automation, contribute to a fully comprehensive log management system.
