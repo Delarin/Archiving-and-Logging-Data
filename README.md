@@ -21,9 +21,15 @@ Log auditing with auditd to track events, record the events, detect abuse or una
 These tools, in addition to archives, backups, scripting, and task automation, contribute to a fully comprehensive log management system.
 # Steps
 Step 1: Create, Extract, Compress, and Manage tar Backup Archives
+
 Step 2: Create, Manage, and Automate Cron Jobs
+
 Step 3:  Write Bash Scripts
+
 Step 4: Perform Various Log Filtering Techniques
+
 Step 5: Create Priority-Based Log Files
+
 Step 6: Manage Log File Sizes
+
 Bonus: Check for Policy and File Violations
